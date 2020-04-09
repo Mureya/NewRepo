@@ -1,4 +1,5 @@
 //method to search for an item using binary search recursively//
+import java.util.Arrays;
     public int binarySearch(int arr[], int low, int high, int x) 
     { 
         if (high >= l) { 
